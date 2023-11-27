@@ -1,4 +1,4 @@
-<h1>Hi, I'm Logan. <br/><a href="https://github.com/Usagi1984">IT Specialist</a>
+<h1>Hi, I'm Logan. <br/><a href="https://github.com/Usagi1984">IT Specialist / Programmer</a></h1>
 
 <h2>--Projects:--</h2>
 </b>
