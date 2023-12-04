@@ -1,11 +1,13 @@
-<h1>Hi, I'm Logan. <br/><a href="https://github.com/Usagi1984">IT Specialist / Programmer</a></h1>
+# Logan Knapp
+**Developer, IT**
 
-<h2>--Projects:--</h2>
-</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-<br>
-<h2>--Connect with me:--</h2>
+Hi, I'm Logan. I'm an independent software, web, and game developer creating projects that interest and challenge me.
 
-[<img align="left" alt="Logan Knapp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
 
-[linkedin]: https://www.linkedin.com/in/logan-knapp-752121296/
+### Languages
+
+<img align="left" width="60px" alt="cplusplus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" width="60px" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" width="60px" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" width="60px" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
